@@ -15,7 +15,7 @@ Recebe uma URL longa e retorna um ID único de 8 caracteres. Os dados são armaz
 
 ## Como configurar na AWS
 
-## Requisitos AWS
+### Requisitos AWS
 
 - Permissões S3: `PutObject`, `GetObject`
 - Permissões CloudWatch Logs
